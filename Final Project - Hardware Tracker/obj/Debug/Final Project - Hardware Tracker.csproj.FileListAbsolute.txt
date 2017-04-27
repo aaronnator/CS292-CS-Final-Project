@@ -1,0 +1,41 @@
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\Final Project - Hardware Tracker.exe.config
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\Final Project - Hardware Tracker.exe
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\Final Project - Hardware Tracker.pdb
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.MainForm.resources
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.Properties.Resources.resources
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.exe
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.pdb
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.ComponentForm.resources
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.PackageForm.resources
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.Designer.cs
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.Designer.cs
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.xsc
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.xsd
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.xss
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.xsc
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.xsd
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.xss
+C:\Users\Aaron\Desktop\IPFW\Semester 2\CS 292\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.EditUsersForm.resources
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\Final Project - Hardware Tracker.exe.config
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.exe
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.pdb
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.Designer.cs
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.Designer.cs
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.xsc
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.xsd
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\HardwarePacksDataset.xss
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.xsc
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.xsd
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\LoginCredentials.xss
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\Final Project - Hardware Tracker.exe
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\bin\Debug\Final Project - Hardware Tracker.pdb
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.ComponentForm.resources
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.EditUsersForm.resources
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.MainForm.resources
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.PackageForm.resources
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final Project - Hardware Tracker.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Final Project - Hardware Tracker\Final Project - Hardware Tracker\obj\Debug\Final_Project___Hardware_Tracker.ReportForm.resources
